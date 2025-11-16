@@ -7,7 +7,8 @@ Note: This project is completely free; you will not need to pay any fees for it.
 
 I've helped many people pass Google's merchant verification process; here are some examples with images.
 
-#Youtube Video tutorial
+# Youtube Video tutorial
+
 https://www.youtube.com/embed/xrfRJZKLxlA
 
 Template Downlaod
