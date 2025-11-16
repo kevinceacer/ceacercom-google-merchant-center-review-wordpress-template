@@ -1,4 +1,4 @@
-# ceacercom-google-merchant-center-review-wordpress-template
+# Ceacer.com is developing a WordPress template for Google Business Applications.
 Hi everyone, I'm going to be developing a new WordPress template focused on Google business verification. It will be ready to use with just one click. It's currently under development.
 If you'd like, please call me Ceacer. Although I'm currently studying skills related to credit cards, investment, and  insurance, it doesn't prevent me from researching WordPress and Google technologies.
 I've worked on a similar template before, but I abandoned it halfway through because I had other commitments. I had to pause the project, but I've picked it up again now, so stay tuned!
@@ -6,7 +6,10 @@ I've worked on a similar template before, but I abandoned it halfway through bec
 Note: This project is completely free; you will not need to pay any fees for it.
 
 I've helped many people pass Google's merchant verification process; here are some examples with images.
-<iframe width="853" height="480" src="https://www.youtube.com/embed/xrfRJZKLxlA" title="This template is used for Google Merchant Center approval and application." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#Youtube Video tutorial
+https://www.youtube.com/embed/xrfRJZKLxlA
+
 Template Downlaod
 
 https://down.scripthub.cc/drive/s/2rtIU0iuzUgTaHb5MCcGdAqMn20AQH
